@@ -1,0 +1,7 @@
+Write a C program to simulate a simple ASCII Drawing Board using a 2D character array of size 25 × 50.
+
+Initialize the drawing board with blank spaces.
+Store the drawing in a global 2D character buffer.
+Implement separate functions for each operation.
+Draw all shapes using the * character.
+Ensure that shapes are drawn only within the buffer boundaries.
